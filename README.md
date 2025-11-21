@@ -5,7 +5,7 @@
 ## 📜 Manifesto Documentation
 
 ### 🔗 Quick Links:
-- **[📖 FULL MANIFESTO (English)](QAZLIKE_eng.docx)** - Complete Technological Democracy concept
+- **[📖 FULL MANIFESTO (English)](QazLike-Manifesto-English.md)** - **Complete Technological Democracy concept**
 - **[📊 Development Plan](QazLike_Нейтральный_Обсуждение.docx)** - Technical implementation roadmap
 - **[⚖️ License](LICENSE)** - Creative Commons BY-NC-SA 4.0
 
