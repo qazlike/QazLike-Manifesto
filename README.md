@@ -1,6 +1,6 @@
 # QazLike - Technological Democracy (Democracy 2.0)
 
-![QazLike Logo](media/image1.png)
+![QazLike Logo](ЛОГОТИП%20QAZLIKE.png)
 
 ## 📜 Manifesto Documentation
 
