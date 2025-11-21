@@ -7,7 +7,7 @@
 ### 🔗 Quick Links:
 - **[📖 FULL MANIFESTO (English)](QazLike-Manifesto-English.md)** - **Complete Technological Democracy concept**
 - **[📊 Development Plan](QazLike_Нейтральный_Обсуждение.docx)** - Technical implementation roadmap
-- **[⚖️ License](LICENSE)** - Creative Commons BY-NC-SA 4.0
+- **[⚖️ License](LICENSE)** - **Creative Commons BY-NC-SA 4.0**
 
 ## 🎯 Core Concept
 
